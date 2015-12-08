@@ -1,0 +1,4 @@
+# Galactica
+3D Android Game
+
+Galactica is a mobile game application based on Android operating system built using only OpenGl and Java. The main idea and topic behind the game is that invaders from outer space attack Earth and the user is the sole person capable of fending off the evil forces. The art style is a little retro when it comes to the GUI and the font used. The idea is to create an 8-bit themed game with a fancy graphical user interface with textured and lighted models. The user interacts with the game by tilting the phone in order to move the user controlled objects and by touching on the screen to fire up different events such as: firing missiles, pausing/ resuming or even terminating the game. Given the fact that the game is a single-level game where the main focus is to score as many points as possible Galactica can be classified as a first-person shooter arcade game.  

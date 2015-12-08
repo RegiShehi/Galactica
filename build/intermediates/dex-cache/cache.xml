@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Regi\Desktop\Android_Studio_Projects\AndroidInvaders\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Regi\Desktop\Android_Studio_Projects\AndroidInvaders\app\build\intermediates\pre-dexed\debug\classes-893c0cd4906226b620fae4c74715968363ab241d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Regi\Desktop\Android_Studio_Projects\AndroidInvaders\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Regi\Desktop\Android_Studio_Projects\AndroidInvaders\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-3616c43d2261287a2db81b97e4b35340ed64de9d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Regi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Regi\Desktop\Android_Studio_Projects\AndroidInvaders\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-da9ef6b01ea1fd3b09e75c9b8b889449987a7cc9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Regi\Desktop\Android_Studio_Projects\AndroidInvaders\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Regi\Desktop\Android_Studio_Projects\AndroidInvaders\app\build\intermediates\pre-dexed\debug\classes-2ab6f6b67d14b8bcc7e0196bb2a659b9d6444811.jar" />
+    </item>
+
+</items>
